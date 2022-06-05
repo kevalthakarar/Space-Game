@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+}
+  
+.entity {
+    position: fixed;
+  }
+  
+.bullet {
+    background-color: red;
+    width: 6px;
+    height: 6px;
+}
